@@ -1,2 +1,5 @@
 # URI
-Repository created with the objective of solving problems of the URI site.
+
+Repository created with the objective of solving uri problems, using python language.
+
+https://www.urionlinejudge.com.br/
